@@ -1,5 +1,7 @@
 # Drupal8-bootstrap4-subtheme-bario
 
+Name: Interdok (You can change it)
+
 This is Drupal 8 subtheme for Bario https://www.drupal.org/project/bootstrap_barrio. 
 Based on Bootstrap 4 (SASS)
 Source Bootstrap 4 included.
@@ -11,3 +13,5 @@ Gulp compiled Bootstrap 4 from sccs to css
 2. Arun gulp  with command: gulp
 
 I used gulp for compilation fronm SCCS to CSS
+
+File templates/page.html.twig changed
