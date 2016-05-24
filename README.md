@@ -15,3 +15,16 @@ Gulp compiled Bootstrap 4 from sccs to css
 I used gulp for compilation fronm SCCS to CSS
 
 File templates/page.html.twig changed
+
+
+====== RUSSIAN ==========
+
+Родительская тема Bario https://www.drupal.org/project/bootstrap_barrio.
+
+Из всего представленного более менее чистая и поддерживает Bootstrap 4. На май 2016 только она.
+
+Я сделал тему в которой исходики бутстрапа компилируются GULP. 
+Это удобно для изменения переменых в стилях, а также для локальной разработки
+
+В репозитории нет файлов модулей галпа, поэтому его нужно инициализировать и он сам все нужное скачает.
+
