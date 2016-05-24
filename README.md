@@ -17,7 +17,7 @@ I used gulp for compilation fronm SCCS to CSS
 File templates/page.html.twig changed
 
 
-====== RUSSIAN ==========
+#  ====== RUSSIAN ==========
 
 Родительская тема Bario https://www.drupal.org/project/bootstrap_barrio.
 
